@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Wispr-Patch-01",
+    "main"
+  ],
+  "parent": {
+    "Wispr-Patch-01": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "Wispr-Patch-01"
+  ]
+}
